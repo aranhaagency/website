@@ -1,2 +1,2 @@
-This directory contains the source files for Libra's Docusaurus documentation.
-See the website's [README](../website/README.md) for additional information.
+Este diretório contém os arquivos de origem da documentação do Docusaurus do Libra.
+Consulte o [README] do site (../site / README.md) para obter informações adicionais.
